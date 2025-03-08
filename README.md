@@ -1,11 +1,10 @@
 # VerbalMate AI - Your Gateway to Confident Conversations 
 
-<!-- 
+
 # Deployed Link 
 **Link - https://verbalmate.vercel.app/**
 
 **Video Demo - https://youtu.be/NmAJ-MwnDFw?si=9g9UlUjn-wsiS-5s**
--->
 <hr>
 
 ## The Problem We Are Trying to Solve
